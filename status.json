@@ -1,7 +1,6 @@
 {
-  "status": "closed",
-  "message": "تم إيقاف الاختبار ",
+  "status": "open",
+  "message": "الاختبار متاح حالياً",
   "lastUpdated": "2024-01-15T10:00:00",
-  "admin": "Academic Team SVU",
-  "version": "1.0"
+  "admin": "razouk777"
 }
